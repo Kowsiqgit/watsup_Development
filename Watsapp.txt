@@ -2,3 +2,4 @@
 2.chat screen code
 3.Last seen code
 4.Attachements code
+5.Hiding last seen
